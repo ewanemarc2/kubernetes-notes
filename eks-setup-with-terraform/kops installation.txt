@@ -63,7 +63,7 @@ You Created. --> Save.
     vi .bashrc
 	
 	# Give Unique Name And S3 Bucket which you created.
-	export NAME=s3://legah2045.k8.local
+	export NAME=legah2045.k8.local
 	export KOPS_STATE_STORE=s3://legah2045.k8.local
  
     source .bashrc
